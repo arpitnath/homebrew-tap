@@ -4,6 +4,8 @@ Coconut, a terminal IDE for reading and reviewing agent-written code. Needs a Ma
 Silicon; builds are signed and notarized.
 
 ```sh
+brew tap arpitnath/tap
+brew trust arpitnath/tap                    # newer Homebrew asks you to trust a tap once
 brew install --cask arpitnath/tap/coconut   # install
 brew upgrade --cask coconut                 # update
 ```
