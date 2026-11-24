@@ -1,6 +1,6 @@
 cask "coconut" do
-  version "0.1.0-alpha.2"
-  sha256 "c51a6e9abd7406cbae76fb6921e6c0d15bff7a3a14f808a0b01c11b436cc07da"
+  version "0.1.0-alpha.3"
+  sha256 "c348d7f64df95061e4d4cee0d77854e3fbeb4e78134784e55aeed7595472fb26"
 
   url "https://github.com/arpitnath/homebrew-tap/releases/download/v#{version}/Coconut-#{version}.dmg"
   name "Coconut"
